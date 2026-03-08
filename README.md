@@ -7,6 +7,8 @@ A machine learning powered web app that extracts the dominant color palette from
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat-square&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-green?style=flat-square&logo=opencv)
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://chromasnap-ldygddwrhmy26awmarw4du.streamlit.app)
+
 ---
 
 ## 📌 What is ChromaSnap?
